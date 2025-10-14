@@ -24,7 +24,31 @@
              🧠 3690/10 = 369
              If any number has last digit as 0 then that number is divisible by 10.
   4️⃣ 𝘿𝙄𝙑𝙄𝙎𝙄𝙊𝙉 𝘾𝙃𝙀𝘾𝙆𝙄𝙉𝙂:
-          ✅ 3696, 285660, 5640, 87865508, ..... etc  
+          ✅ 3696, 285660, 564021, 87865508, ..... etc  
              🧠 3696/4 👉 96/4 ➡️ = 24 then 3696 divisible by 4.
              🧠 285660/4 👉 60/4 ➡️ = 15 then 285660 is divisible by 4.
-             If the given number last 2 digits divisible by 4 then, that entair number is divisible by 4. s
+             ❌ 2856686/4 👉 86/4 ➡️ = 21.5 then 2856686 is not divisible 4. ❌
+             If the given number last 2 digits divisible by 4 then, that entair number is divisible by 4. 
+  6️⃣ 𝘿𝙄𝙑𝙄𝙎𝙄𝙊𝙉 𝘾𝙃𝙀𝘾𝙆𝙄𝙉𝙂:
+         ✅ 3696, 285660, 56401, 8786550118, ..... etc
+            🧠 3696/6 👉 last digit is 6 ➡️ then 3696 is divisible by 2.✔️
+                      👉 sum of the digits 3+6+9+6 = 24 ➡️ 24/3 = 8 ➡️ then 3696 divisible by 3.✔️
+                  ✨ 3696 is dvisible by 2 and 3 therefore the given number is divisible by 6.✅
+            🧠 285660/6 👉 last digit is 0 ➡️ then 285660 is divisible by 2.✔️
+                        👉 sum of the digits 2+8+5+6+6+0 = 27 ➡️ 27/3 = 9 ➡️ then 285660 divisible by 3.✔️
+                  ✨ 285660 is dvisible by 2 and 3 therefore the given number is divisible by 6.✅
+            ❌ 564021/6 👉 last digit is 1 ➡️ then 564021 is not divisible by 2.❌
+                       👉 sum of the digits 5+6+4+0+2+1 = 18 ➡️ 18/3 = 6 ➡️ then 564021 divisible by 3.✔️
+                  ✨ 564021 is not dvisible by 2 but divisible by 3 therefore the given number is not divisible by 6.❌
+            If the given number is divisible by 2 and 3 then that number is divisible by 6.
+   8️⃣ 𝘿𝙄𝙑𝙄𝙎𝙄𝙊𝙉 𝘾𝙃𝙀𝘾𝙆𝙄𝙉𝙂:
+         ✅ 3408, 284856, 564016, 7874336, ..... etc  
+             🧠 3408 👉 408/8 = 51 ➡️ then 3408 divisible by 8.✔️
+             🧠 284856 👉 856/8 = 107 ➡️ then 284856 is divisible by 8.✔️
+             ❌ 6786855 👉 855/8  = 106.87 ➡️ then 6786855 is not divisible 8. ❌
+             A number is divisible by 8 if its last three digits form a number that is divisible by 8.
+   1️⃣1️⃣ 𝘿𝙄𝙑𝙄𝙎𝙄𝙊𝙉 𝘾𝙃𝙀𝘾𝙆𝙄𝙉𝙂:
+         ✅ 20416, 71924050, 56401689457, ..... etc  
+             🧠 71924050 👉 (7+9+4+5) ~ (1+2+0+0) ➡️ 25 ~ 3 = 22 ➡️ then 22 is divisible 11, therefore the given entire number is divisible by 11.✔️
+             🧠 20416 👉 (2+4+6) ~ (0+1) ➡️ 12 ~ 1 = 11 ➡️ then 11 is divisible 11, therefore the given entire number is divisible by 11.✔️
+             ❌ 864892 👉 (8+4+9) ~ (6+8+2) ➡️ 21 ~ 16 = 5 ➡️ then 5 is not divisible 11, therefore the given entire number is not divisible by 11. ❌
