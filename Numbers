@@ -1,1 +1,80 @@
+🧮 𝐔𝐍𝐈𝐓 𝐃𝐈𝐆𝐈𝐓 
+      2345464, 2345+78786+1+9+4, 67675*1, 786852*6*4, 86775-78675, 9089787-565454, 7^3, 81^3 ....etc
+      The unit digits are:
+          🧠 2345464 -----> 4 is the unit digit.
+          🧠 2345+78786+1+9+4 -----> 5+6+1+9+4 = 25, therefore 5 is the unit digit.
+          🧠 67675*1 -----> 5*1 = 5  therefore 5 is the unit digit.
+          🧠 786852*6*4 -----> 2*6*4 = 12*4 = 48 therefore 8 is the unit digit.
+          🧠 86775-78675 -----> 5-5 = 0 therefore, 0 is the unit digit.
+          🧠 9089787-565454 -----> 7-4 = 3 therefore, 3 is the unit digit.
+          🧠 7^3 -----> 7*7*7 = 49*7 ----> 9*7 = 63 therefore, 3 is the unit digit.
+          🧠 81^3 -----> 81*81*81 ----> 6561*81 = 531441 therefore, 1 is the unit digit.
+or 
+Examples:
 
+1️⃣ 2345464
+→ The last digit is 4.
+✅ Unit digit = 4
+
+2️⃣ 2345 + 78786 + 1 + 9 + 4
+→ Consider only the unit digits: 5 + 6 + 1 + 9 + 4 = 25
+→ The unit digit of 25 is 5.
+✅ Unit digit = 5
+
+3️⃣ 67675 × 1
+→ Only the last digits matter → 5 × 1 = 5
+✅ Unit digit = 5
+
+4️⃣ 786852 × 6 × 4
+→ Take only last digits: 2 × 6 × 4 = 48
+→ Unit digit of 48 is 8.
+✅ Unit digit = 8
+
+5️⃣ 86775 − 78675
+→ Only last digits: 5 − 5 = 0
+✅ Unit digit = 0
+
+6️⃣ 9089787 − 565454
+→ Only last digits: 7 − 4 = 3
+✅ Unit digit = 3
+
+7️⃣ 7³
+→ Multiply last digits only: 7 × 7 × 7 = 343
+→ Unit digit = 3
+✅ Unit digit = 3
+
+8️⃣ 81³
+→ Consider last digit of 81, which is 1.
+→ Any number ending with 1 raised to any power always ends with 1.
+✅ Unit digit = 1
+
+--------------------or-------------------
+
+🧮 MODEL - 1
+0^n = 0
+1^n = 1
+5^n = 5
+6^n = 6
+Example: 
+       5637826^(4000) ----> Unit digit = 6. ✔️
+       89389780^(675656) -----> Unit digit = 0. ✔️
+       8676371^(376465) -------> Unit digit = 1. ✔️
+       786436898985^(700) --------> Unit digit = 5. ✔️
+       6565^(24) + 876^(78) ------> 5+6 = 11 ---> Unit digit = 1. ✔️
+       767671^(12) * 970^(43) ------> 1*0 = 0 -----> Unit digit = 0. ✔️
+       989996^(787) * 8781^(89) ------> 6*1 = 6 ------> Unit digit = 6. ✔️  etc
+
+🧮 MODEL - 2
+4^odd = 4
+4^even = 6
+9^odd = 9
+9^even = 1
+Example: 
+      4^(22) -----> 4^even ----> therefore, Unit digit = 6. ✔️
+      4^(29) -----> 4^odd ----> therefore, Unit digit = 4. ✔️
+      9^(35) ------> 9^odd ---> therefore, Unit digit = 9 ✔️
+      9^(12) -----> 9^even ----> therefore, Unit digit = 1. ✔️
+   
+      
+
+          
